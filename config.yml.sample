@@ -1,0 +1,11 @@
+---
+key_id: <<aliyun_key_id>>
+key_secret: <<aliyun_key_secret>>
+region_id: cn-hangzhou
+hosts:
+- dev-10
+- dev-7
+- dev-8
+- dev-9
+filter: centos-7
+wait_time: 5
